@@ -1,8 +1,8 @@
 import React from 'react';
 import { Formik, Form } from 'formik';
 import * as Yup from 'yup';
-import { IonContent, IonGrid, IonRow, IonCol, IonTitle, IonButton, IonLoading, IonItem, IonLabel, IonDatetime } from '@ionic/react';
-import FormInput from '../../../components/fromInput/FormInput';
+import { IonContent, IonGrid, IonRow, IonCol, IonButton, IonLoading, IonItem, IonLabel, IonDatetime } from '@ionic/react';
+import FormInput from '../../../components/formInput/FormInput';
 import CONSTANS from '../../../models/Constans';
 import studentLanguageService from '../../../providers/student/StudentLanguageService';
 import WrapperResponse from '../../../models/WrapperResponse';

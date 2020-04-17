@@ -2,7 +2,7 @@ import React from 'react';
 import { Formik, Form } from 'formik';
 import * as Yup from 'yup';
 import { IonContent, IonGrid, IonRow, IonCol, IonTitle, IonButton, IonLoading } from '@ionic/react';
-import FormInput from '../../components/fromInput/FormInput';
+import FormInput from '../../components/formInput/FormInput';
 import './FormLogin.css'
 
 const validationSchema = Yup.object().shape({
