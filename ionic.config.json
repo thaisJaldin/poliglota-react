@@ -1,0 +1,7 @@
+{
+  "name": "poliglota-react",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
